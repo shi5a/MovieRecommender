@@ -1,4 +1,4 @@
-# MovieRecommender
+# Movie Recommender
 Movie Recommendation System
 The final project of the Data Science Bootcamp with Coding Dojo Academy & Saudi Digital Academy (SDA)
 
@@ -48,7 +48,7 @@ that classifies k number of near neighbors to be on the same category.
 
 ## Getting Started
 
-1. You can open and lunch this [notebook](https://github.com/shi5a/MovieRecommender/blob/main/Recommender_System1.ipynb) via Goolge Colaboratory  
+1. You can open and launch this [notebook](https://github.com/shi5a/MovieRecommender/blob/main/Recommender_System1.ipynb) via Goolge Colaboratory  
 2. Data processing/transformation scripts are being kept in the same notebook
 
 ## Featured Notebooks/Analysis/Deliverables
