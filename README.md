@@ -34,7 +34,6 @@ Along with using the content-based filtering of recommender systems and the KNN 
 that classifies k number of near neighbors to be on the same category. 
 
 ## Needs of this project
-
 - advanced python Programmer
 - data exploration/descriptive statistics
 - data processing/cleaning
@@ -43,20 +42,18 @@ that classifies k number of near neighbors to be on the same category.
 - Recommender Systems understanding
 
 ## Getting Started
-
 1. You can open and launch this [notebook](https://github.com/shi5a/MovieRecommender/blob/main/Recommender_System1.ipynb) via Goolge Colaboratory  
 2. Data raw are uploaded from [GitHub Repo](https://github.com/shi5a/MovieRecommender) in the same notebook
 3. Data processing/transformation scripts are being kept in the same notebook
 4. Data Source: [Kaggle](https://www.kaggle.com/ayushimishra2809/movielens-dataset)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Project Pager](link)
+* [Project Pager](https://drive.google.com/file/d/1dElhK-ERcaS7eh7mTlBjRdMgjxmQtpPe/view?usp=sharing)
 * [Project Presentation](https://drive.google.com/file/d/14fZ-OJ4lgJrvTTxx_yBYIdVc1fAksvJd/view?usp=sharing)
-* [Recommendation System Blog](link)
+* [Recommendation System Blog on Medium](https://shi5a.medium.com/recommender-system-914f3ef5e13d)
 
 
 ## Members
-
 **Data Science Trainee: [Shaikha AlBilais](https://github.com/shi5a)(@shi5a)**
 
 
