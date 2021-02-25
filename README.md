@@ -44,17 +44,19 @@ that classifies k number of near neighbors to be on the same category.
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- recommender System understanding
+- Recommender Systems understanding
 
 ## Getting Started
 
 1. You can open and launch this [notebook](https://github.com/shi5a/MovieRecommender/blob/main/Recommender_System1.ipynb) via Goolge Colaboratory  
-2. Data processing/transformation scripts are being kept in the same notebook
+2. Data raw are uploaded from [GitHub Repo](https://github.com/shi5a/MovieRecommender) in the same notebook
+3. Data processing/transformation scripts are being kept in the same notebook
+4. Data Source: [Kaggle](https://www.kaggle.com/ayushimishra2809/movielens-dataset)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Project Pager](link)
-* [Project Presentation](link)
-* [Recommendation System Blog Post](link)
+* [Project Presentation](https://drive.google.com/file/d/14fZ-OJ4lgJrvTTxx_yBYIdVc1fAksvJd/view?usp=sharing)
+* [Recommendation System Blog](link)
 
 
 ## Members
