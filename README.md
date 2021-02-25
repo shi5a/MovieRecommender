@@ -48,8 +48,8 @@ that classifies k number of near neighbors to be on the same category.
 4. Data Source: [Kaggle](https://www.kaggle.com/ayushimishra2809/movielens-dataset)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Project Pager](https://drive.google.com/file/d/1dElhK-ERcaS7eh7mTlBjRdMgjxmQtpPe/view?usp=sharing)
-* [Project Presentation](https://drive.google.com/file/d/14fZ-OJ4lgJrvTTxx_yBYIdVc1fAksvJd/view?usp=sharing)
+* [Project Pager](https://github.com/shi5a/MovieRecommender/blob/main/MovieRecommenderPager.pdf)
+* [Project Presentation](https://github.com/shi5a/MovieRecommender/blob/main/MovieRecommender%20Pres.pdf)
 * [Recommendation System Blog on Medium](https://shi5a.medium.com/recommender-system-914f3ef5e13d)
 
 
