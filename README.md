@@ -61,7 +61,7 @@ that classifies k number of near neighbors to be on the same category.
 
 ## Members
 
-**Data Science Trianee: [Shaikha AlBilais](https://github.com/shi5a)(@shi5a)**
+**Data Science Trainee: [Shaikha AlBilais](https://github.com/shi5a)(@shi5a)**
 
 
 ## Contact
