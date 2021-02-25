@@ -1,7 +1,3 @@
-# Movie Recommender
-Movie Recommendation System
-The final project of the Data Science Bootcamp with Coding Dojo Academy & Saudi Digital Academy (SDA)
-
 # Movie Recommender System
 This project is the final project of the of the Data Science Bootcamp with Coding Dojo Academy & Saudi Digital Academy (SDA)
 
